@@ -56,10 +56,10 @@
     "docs:open": "open docs/index.html"
   },
   "dependencies": {
-    "@ironfish/sdk": "1.10.0",
-    "@oclif/core": "1.23.1",
+    "@ironfish/sdk": "2.9.0",
+    "@oclif/core": "4.0.0",
     "@oclif/plugin-help": "5.1.12",
-    "@oclif/plugin-not-found": "2.3.1",
+    "@oclif/plugin-not-found": "3.2.0",
     "@types/tar": "6.1.1",
     "chalk": "^4"
   },
