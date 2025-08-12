@@ -74,7 +74,7 @@
     "blru": "0.1.6",
     "buffer-map": "0.0.7",
     "chalk": "4.1.2",
-    "inquirer": "8.2.5",
+    "inquirer": "8.2.7",
     "json-colorizer": "2.2.2",
     "supports-hyperlinks": "2.2.0",
     "tar": "6.1.11",
